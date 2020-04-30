@@ -1,4 +1,4 @@
-Marlin 3D Printer Firmware
+Marlin 3D Printer Firmware (Bondtech)
 ==========================
 
 Quick Information
